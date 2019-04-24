@@ -1,4 +1,4 @@
-# bigram-and-trigram-language-model-for-word-sequences
+# bigram-VS-trigram-language-model-for-word-sequences
 
 ### Implementation and training of a bigram and a trigram language model
 ### Probabilities  of correct VS incorrect unknown sentences based on the trained models
