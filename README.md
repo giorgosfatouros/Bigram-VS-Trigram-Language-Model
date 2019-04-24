@@ -1,4 +1,5 @@
-# bigram-VS-trigram-language-model-for-word-sequences
+# Text analytics
+## Bi-gram VS Tri-gram Language Model 
 
 i) Implement of a bigram and a trigram language model for word sequences (e.g., sentences). Train the models on a training subset of a corpus (e.g., from the English part of Europarl:http://www.statmt.org/europarl/). Include in the vocabulary only words that occur, e.g., at least 10 times in the training subset; use the same vocabulary in the bigram and trigram models. Replace all out-of-vocabular (OOV) words (in the training, development, test subsets) by a special token *UNK*. 
 
